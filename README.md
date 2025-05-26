@@ -17,6 +17,10 @@
 
 
 最新RAR压缩包更新了显示区域内高亮，优化运行，减少资源占用。
+
+
+新版本修复了保存后填充依然在的问题
+修复了聚焦后会影响原表格填充的问题
  ![image](https://raw.githubusercontent.com/KiwiTK/excelfocus/refs/heads/main/2.png)
  ![image](https://raw.githubusercontent.com/KiwiTK/excelfocus/refs/heads/main/4.jpg)
  ![image](https://raw.githubusercontent.com/KiwiTK/excelfocus/refs/heads/main/5.jpg)
